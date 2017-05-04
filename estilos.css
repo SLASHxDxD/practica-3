@@ -1,0 +1,42 @@
+.en
+{
+    background: silver;
+}
+.encabezado
+{
+    background-color: #488173;
+    text-align: center;
+    
+}
+.titulo
+{
+    background-color: aliceblue;
+}
+.der
+{
+    width: 50%;
+    background-image:url(foto4.JPG);
+    float: left;
+    text-align: center;
+}
+.imag
+{
+    
+    width: 50%;
+    border-radius: 50%;
+    
+}
+.info
+{
+    width: 50%;
+    background-color: #374748;
+    float: right;
+    text-align: center;
+}
+.cont
+{
+    width: 100%;
+    background-color: #CA5745;
+    float: right;
+    text-align: center;
+}
